@@ -1,0 +1,140 @@
+[
+    [
+        "D:\\jeongsi\\testProj4\\myPack",
+        {
+            "sourcePath": "D:\\jeongsi\\testProj4\\myPack",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1532503330509,
+            "changeTime": 1532503330509,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\jeongsi\\testProj4\\myPack\\main",
+        {
+            "sourcePath": "D:\\jeongsi\\testProj4\\myPack\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1532503330509,
+            "changeTime": 1532503330509,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\jeongsi\\testProj4\\myPack\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "D:\\jeongsi\\testProj4\\myPack\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1532562908051,
+            "changeTime": 1532562908051,
+            "contentHash": "963339d4296c8068bf9a90d369838ed0bf6cd7b9"
+        }
+    ],
+    [
+        "D:\\jeongsi\\testProj4\\myPack\\main\\default\\aura",
+        {
+            "sourcePath": "D:\\jeongsi\\testProj4\\myPack\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1532503330509,
+            "changeTime": 1532503330509,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\jeongsi\\testProj4",
+        {
+            "sourcePath": "D:\\jeongsi\\testProj4",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1532560127805,
+            "changeTime": 1532560127805,
+            "contentHash": "5b1ccb359a2a0962d40824599c5a80aba9dc26bb",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\jeongsi\\testProj4\\myPack\\main\\default\\permissionsets\\ForDevHub.permissionset-meta.xml",
+        {
+            "sourcePath": "D:\\jeongsi\\testProj4\\myPack\\main\\default\\permissionsets\\ForDevHub.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 207,
+            "modifiedTime": 1532562683645,
+            "changeTime": 1532562683645,
+            "contentHash": "169c7d50ce307013d5c1f6e98b8a88333b84eb86",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\jeongsi\\testProj4\\myPack\\main\\default\\permissionsets",
+        {
+            "sourcePath": "D:\\jeongsi\\testProj4\\myPack\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1532562683645,
+            "changeTime": 1532562683645,
+            "contentHash": "93fe831ccf4d62730e5985f55b427bdb21a867fc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\jeongsi\\testProj4\\myPack\\main\\default\\classes\\pullClass.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\jeongsi\\testProj4\\myPack\\main\\default\\classes\\pullClass.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1532562908060,
+            "changeTime": 1532562908060,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5"
+        }
+    ],
+    [
+        "D:\\jeongsi\\testProj4\\myPack\\main\\default\\classes\\pullClass.cls",
+        {
+            "state": "u",
+            "sourcePath": "D:\\jeongsi\\testProj4\\myPack\\main\\default\\classes\\pullClass.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1532562908062,
+            "changeTime": 1532562908062,
+            "contentHash": "27f5f6eb377b59537f59567b34b9ecfe4097e8ba"
+        }
+    ],
+    [
+        "D:\\jeongsi\\testProj4\\myPack\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "D:\\jeongsi\\testProj4\\myPack\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1532562908062,
+            "changeTime": 1532562908062,
+            "contentHash": "7ab02359b138fdde7884ea86a279e597479b7c15"
+        }
+    ]
+]

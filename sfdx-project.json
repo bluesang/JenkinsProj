@@ -1,0 +1,18 @@
+{
+    "packageDirectories": [
+        {
+            "path": "myPack",
+            "default": true,
+            "package": "UnlockedPack1",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        }
+    ],
+    "namespace": "jeongsi",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "43.0",
+    "packageAliases": {
+        "UnlockedPack1": "0Ho6F0000004CCMSA2",
+        "UnlockedPack1@0.1.0-2": "04t6F000001rNuIQAU"
+    }
+}
